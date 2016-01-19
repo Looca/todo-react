@@ -1,8 +1,11 @@
-# todo-react
+# todo-react a.k.a Bartodos
 My take on Todos using ReactJS. Additionally list is sortable using jquery-ui
 
 #Dependencies
-- React-tools@0.13.3
+- React@0.13.3
+- React-tools
+- jQuery
+- jQuery-ui@1.11.4
 - httpster@1.0.1
 To install it run following NPM command
 $ npm install
