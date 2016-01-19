@@ -1,0 +1,21 @@
+{
+  "name": "todo-list",
+  "version": "0.0.1",
+  "description": "TODO list using ReactJS and API to populate data",
+  "main": "index.js",
+  "scripts": {
+    "start": "open http://localhost:4321 & httpster -p 4321"
+  },
+  "keywords": [
+    "reactjs",
+    "todo"
+  ],
+  "author": "Lukasz Pietraszek",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^3.3.4",
+    "httpster": "^1.0.1",
+    "react": "^0.13.3",
+    "react-tools": "^0.13.3"
+  }
+}
